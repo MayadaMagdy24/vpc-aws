@@ -8,7 +8,7 @@
 - attach igw to vpc
 ![Screenshot (620)](https://user-images.githubusercontent.com/93229250/227207439-0d7006d0-0b67-4fae-add7-87b1bd4a80a2.png)
 
-- creating public and private subnets
+- creating public (10.0.0.0/24) and private (10.0.1.0/24)subnets
 ![Screenshot (621)](https://user-images.githubusercontent.com/93229250/227207617-d9c94ed4-9a67-445e-a623-94d56a17de66.png)
 
 - creating a nat on public subnet attached to private subnet
